@@ -1,6 +1,7 @@
 
 # Warum sehe ich was auf TikTok und Co?
 A presentation and mini recommender app that [Ricarda Link](https://www.uni-mannheim.de/dws/people/researchers/phd-students/ricarda-link/), [Lea Cohausz](https://lea-cohausz.github.io/), and [Julia Gastinger](https://juliagast.github.io/) created for [girls' day](https://www.girls-day.de/) 2025. 
+Feel free to modify and use.
 
 ## slides
 * Zielgruppe: Teenager (ca 8.-13. Klasse)
